@@ -1,0 +1,19 @@
+@import "env";
+
+.btn-primary{
+    color: $btn-primary-color;
+    background-color: $btn-primary-bg;
+    border-color: $btn-primary-border-color;
+}
+
+.btn-success{
+    color: $btn-success-color;
+    background-color: $btn-success-bg;
+    border-color: $btn-success-border-color;
+}
+
+.btn-info{
+    color: $btn-info-color;
+    background-color: $btn-info-bg;
+    border-color: $btn-info-border-color;
+}
