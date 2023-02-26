@@ -31,3 +31,5 @@ export default {
 </template>
 ```
 ![Example](docs/example.png "Example")
+
+theme: minima
