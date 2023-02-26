@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: architect
 title: btn
+show_downloads: false
 description: Button component for vue
