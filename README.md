@@ -30,4 +30,5 @@ export default {
   <btn>My Button</btn>
 </template>
 ```
+
 ![Example](docs/example.png "Example")
